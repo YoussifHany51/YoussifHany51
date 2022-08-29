@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://github.com/YoussifHany51/MyCV](https://github.com/YoussifHany51/MyCV)
 
-- ⚡ Fun fact **I love motorcycles 🏍**
+- ⚡ Fun fact **I love Football ⚽️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
