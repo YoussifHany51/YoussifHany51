@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/youssifhany8" target="blank"><img src="https://img.shields.io/twitter/follow/youssifhany8?logo=twitter&style=for-the-badge" alt="youssifhany8" /></a> </p>
 
-- 🔭 I’m currently working on [IOS apps using SwiftUI (Calorie Hut, Sixth October City )](https://github.com/YoussifHany51?tab=repositories)
+- 🔭 I’m currently working on [IOS apps using SwiftUI](https://github.com/YoussifHany51?tab=repositories)
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **youssifhany962@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/YoussifHany51/MyCV](https://github.com/YoussifHany51/MyCV)
+- 📄 Know about my experiences [https://www.linkedin.com/in/youssif-hany-630855213]
 
-- ⚡ Fun fact **I love Football ⚽️**
+- ⚡ Fun fact **I love Chess ♖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
