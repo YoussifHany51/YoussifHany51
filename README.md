@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **youssifhany962@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/youssif-hany-630855213]](https://www.linkedin.com/in/youssif-hany-630855213/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/youssif-hany-630855213](https://www.linkedin.com/in/youssif-hany-630855213/)
 
 - ⚡ Fun fact **I love Chess ♖**
 
